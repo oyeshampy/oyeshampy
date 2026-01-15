@@ -5,7 +5,7 @@ Java • Spring Boot • Microservices • Kubernetes • JVM Performance
 
 I design and build reliable, scalable backend systems with a strong focus on
 performance, observability, and maintainability. Currently leading CRM
-platform development at Check24 (Germany), working on high-traffic,
+platform development (Germany), working on high-traffic,
 business-critical microservices.
 
 ---
