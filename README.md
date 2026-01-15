@@ -24,7 +24,7 @@ business-critical microservices.
 
 ## Selected Work & Repositories
 
-> Repositories below reflect real-world engineering problems I work on or explore.
+<!--- > Repositories below reflect real-world engineering problems I work on or explore. -->
 
 - **Spring / Backend Utilities**  
  <!--- Practical examples around Spring Boot, REST APIs, configuration, and
