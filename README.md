@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oyeshampy
-- 👀 I’m interested in Java, React, TypeScript
-- 🌱 I’m currently learning React
+- 👀 I’m interested in K8s, Java, React, TypeScript
+- 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me puneetsharmakpt@gmail.com
 
