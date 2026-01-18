@@ -61,7 +61,7 @@ These repositories reflect patterns and approaches I use in real-world systems:
 
 ---
 
-I’m open to collaborating on **backend, distributed systems, and JVM-focused open source projects**.
+I’m open to collaborating on **backend, distributed systems, Kubernetes, React, TypeScript and JVM-focused open source projects**.
 
 
 
