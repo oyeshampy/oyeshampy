@@ -1,79 +1,68 @@
 # Puneet Sharma
 
-Lead Software Engineer | Backend & Distributed Systems  
+**Lead Software Engineer | Backend & Distributed Systems**  
 Java • Spring Boot • Microservices • Kubernetes • JVM Performance
 
-I design and build reliable, scalable backend systems with a strong focus on
-performance, observability, and maintainability. Currently leading CRM
-platform development (Germany), working on high-traffic,
-business-critical microservices.
+I design and build reliable, scalable backend systems with a strong focus on **performance, observability, and maintainability**.  
+Currently leading the development of **business-critical CRM microservices** at **Check24 (Kredit), Germany**, operating in high-traffic production environments.
 
 ---
 
-## Professional Focus
+## Engineering Focus
 
-- Backend engineering with **Java, Spring Boot, REST**
-- **Microservices architecture** in production environments
-- **Kubernetes, Docker, CI/CD (Jenkins)**
-- Messaging & async systems (**ActiveMQ, JMS**)
-- Data stores: **Oracle, Percona/MySQL, Elasticsearch**
-- Production debugging: JVM memory, GC, threading, performance bottlenecks
-- Agile delivery, technical leadership, and code quality
+- Backend engineering with **Java, Spring Boot, REST APIs**
+- **Production-grade microservices** and service integration
+- **Kubernetes, Docker, CI/CD** in daily operations
+- Messaging and asynchronous systems (**ActiveMQ, JMS**)
+- Data stores: **Oracle, MySQL/Percona, Elasticsearch**
+- **JVM performance**: memory, GC, threading, production debugging
+- Pragmatic architecture, code quality, and long-term ownership
 
 ---
 
-## Selected Work & Repositories
+## Selected Repositories
 
-<!--- > Repositories below reflect real-world engineering problems I work on or explore. -->
+These repositories reflect patterns and approaches I use in real-world systems:
 
-- **Spring / Backend Utilities**  
- <!--- Practical examples around Spring Boot, REST APIs, configuration, and
-  production-ready patterns. -->
+- **Spring Backend Utilities**  
+  Production-oriented Spring Boot examples (REST APIs, configuration, resilience, observability)
 
 - **Microservices & Messaging**  
- <!--- Experiments and references involving event-driven systems, JMS, and service
-  communication.-->
+  Event-driven designs, JMS patterns, and service-to-service communication strategies
 
-- **Kubernetes & Operations**  
- <!--- Notes, scripts, and samples related to containerized workloads, JVM tuning
-  inside pods, and operational debugging.-->
+- **Kubernetes & JVM Operations**  
+  JVM tuning in containers, memory diagnostics, and operational debugging techniques
 
 ---
 
 ## Experience Snapshot
 
-**Lead Software Developer – Check24 (Kredit), Munich**  
-*2018 – Present*
+**Lead Software Engineer – Check24 (Kredit), Munich**  
+2018 – Present
 
-- Technical ownership of CRM microservices used by sales partners
+- Long-term technical ownership of CRM microservices in production
 - Designing and evolving distributed systems handling customer and loan data
-- Leading developers and working students; code reviews and architectural decisions
-- JVM tuning, Elasticsearch-backed services, and production issue resolution
+- Leading developers, reviewing code, and driving architectural decisions
+- JVM tuning, Elasticsearch-backed services, and production incident resolution
 
-**Technology Analyst – Infosys (Client: adidas Group)**  
-*2014 – 2018*
+**Technology Analyst – Infosys Ltd (Client: adidas Group)**  
+2014 – 2018
 
-- Backend development for CRM, consumer data platforms, and monitoring tools
-- SOAP/REST services, data acquisition pipelines, and business SLA monitoring
-
----
-
-## Certifications
-
-- **CKAD – Certified Kubernetes Application Developer**
-- Infosys Certified Java Programmer
-- Infosys Certified Agile Developer
+- Backend development for CRM and consumer data platforms
+- SOAP/REST services, data acquisition pipelines, and SLA monitoring systems
 
 ---
 
-## Find Me
+## Links
 
-- LinkedIn: https://www.linkedin.com/in/puneetsharmakheti
-- Blog (older notes): http://queryportal.blogspot.in
+- 🌐 Website: https://www.puneetsharma.info  
+- 💼 LinkedIn: https://www.linkedin.com/in/puneetsharmakheti  
+- 📝 Blog (older notes): http://queryportal.blogspot.in  
 
 ---
 
-- I’m looking to collaborate on some open source projects
+I’m open to collaborating on **backend, distributed systems, and JVM-focused open source projects**.
+
 
 
 <!---
